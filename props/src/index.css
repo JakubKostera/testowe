@@ -1,0 +1,19 @@
+.galeria{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+}
+img{
+    margin:5px;
+    border-radius:20px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+li{
+    margin-right: 10px;
+}
